@@ -1,14 +1,12 @@
 # 💫 About Me:
-🔭 Currently working on: Investment Banking projects leveraging Java and Cloud technologies.
+🔭 Currently working on: Investment Banking projects leveraging Java and Cloud technologies.;
 👯 Looking to collaborate on: Open-source projects and startup initiatives where innovation and impact matter. 
 🤝 Looking for help with: Exploring best practices and real-world use cases in advanced cloud architectures and scalable systems. 
 🌱 Currently learning: Generative AI (GenAI) and Retrieval-Augmented Generation (RAG) to build intelligent, data-driven applications. 
 💬 Ask me about: Java, Apache Kafka, and Cloud platforms. 
 ⚡ Fun fact: I enjoy breaking down complex systems into simple, efficient solutions 🚀
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&vCenter=true&width=900&lines=🔭+Currently+working+on:+Investment+Banking+projects+leveraging+Java+and+Cloud+technologies.;👯+Looking+to+collaborate+on:+Open-source+projects+and+startup+initiatives+where+innovation+and+impact+matter.;🤝+Looking+for+help+with:+Best+practices+and+real-world+use+cases+in+advanced+cloud+architectures+and+scalable+systems.;🌱+Currently+learning:+Generative+AI+(GenAI)+and+RAG+to+build+intelligent,+data-driven+applications.;💬+Ask+me+about:+Java,+Apache+Kafka,+and+Cloud+platforms.;⚡+Fun+fact:+I+enjoy+breaking+down+complex+systems+into+simple,+efficient+solutions+🚀" />
-</p>
+
 
 
 ## 🌐 Socials:
