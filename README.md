@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m currently working on Investment Banking projects using Java and Cloud technologies, eager to collaborate on impactful open-source and startup initiatives, seeking guidance on best practices and real-world use cases for advanced cloud architectures and scalable systems, learning GenAI and RAG to build intelligent data-driven applications, happy to be asked about Java, Apache Kafka, and Cloud platforms, and I love simplifying complex systems into efficient solutions 🚀
+🔭 Currently working on: Investment Banking projects leveraging Java and Cloud technologies. 
+👯 Looking to collaborate on: Open-source projects and startup initiatives where innovation and impact matter. 
+🤝 Looking for help with: Exploring best practices and real-world use cases in advanced cloud architectures and scalable systems. 
+🌱 Currently learning: Generative AI (GenAI) and Retrieval-Augmented Generation (RAG) to build intelligent, data-driven applications. 
+💬 Ask me about: Java, Apache Kafka, and Cloud platforms. 
+⚡ Fun fact: I enjoy breaking down complex systems into simple, efficient solutions 🚀
 
 
 ## 🌐 Socials:
