@@ -1,4 +1,4 @@
-👋 Hi, I'm Chandan | Java & Spring Boot Developer | Full-Stack Engineer
+👋 Hi, I'm Chandan | Java & Spring Boot Developer | Full-Stack Engineer |
 
 # 💫 About Me:
 - 🔭 Currently working on: Investment Banking projects leveraging Java and Cloud technologies.
